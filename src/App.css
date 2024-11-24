@@ -1,0 +1,12 @@
+@media screen  (max-width: 415px) {
+    .add-btm{
+        width: 95vw;
+    }
+
+    .date{
+        width: 10vw;
+        color: aliceblue;
+
+    }
+}
+  
